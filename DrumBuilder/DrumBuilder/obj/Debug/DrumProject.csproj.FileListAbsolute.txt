@@ -1,0 +1,30 @@
+C:\Users\VLADISLAV\Documents\Visual Studio 2013\Projects\DrumBuilder\DrumBuilder\obj\Debug\DrumProject.csprojResolveAssemblyReference.cache
+C:\Users\VLADISLAV\Documents\Visual Studio 2013\Projects\DrumBuilder\DrumBuilder\obj\Debug\DrumProject.csproj.GenerateResource.Cache
+C:\Users\VLADISLAV\Documents\Visual Studio 2013\Projects\DrumBuilder\DrumBuilder\bin\Debug\DrumBuilder.exe.config
+C:\Users\VLADISLAV\Documents\Visual Studio 2013\Projects\DrumBuilder\DrumBuilder\bin\Debug\DrumBuilder.exe
+C:\Users\VLADISLAV\Documents\Visual Studio 2013\Projects\DrumBuilder\DrumBuilder\bin\Debug\DrumBuilder.pdb
+C:\Users\VLADISLAV\Documents\Visual Studio 2013\Projects\DrumBuilder\DrumBuilder\obj\Debug\DrumBuilder.Properties.Resources.resources
+C:\Users\VLADISLAV\Documents\Visual Studio 2013\Projects\DrumBuilder\DrumBuilder\obj\Debug\DrumBuilder.exe
+C:\Users\VLADISLAV\Documents\Visual Studio 2013\Projects\DrumBuilder\DrumBuilder\obj\Debug\DrumBuilder.pdb
+E:\Visual Studio 2013\Projects\DrumBuilder\DrumBuilder\bin\Debug\DrumBuilder.exe.config
+E:\Visual Studio 2013\Projects\DrumBuilder\DrumBuilder\obj\Debug\DrumBuilder.exe
+E:\Visual Studio 2013\Projects\DrumBuilder\DrumBuilder\obj\Debug\DrumBuilder.pdb
+E:\Visual Studio 2013\Projects\DrumBuilder\DrumBuilder\bin\Debug\DrumBuilder.exe
+E:\Visual Studio 2013\Projects\DrumBuilder\DrumBuilder\bin\Debug\DrumBuilder.pdb
+E:\Visual Studio 2013\Projects\DrumBuilder\DrumBuilder\obj\Debug\DrumProject.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\DrumBuilder\DrumBuilder\obj\Debug\DrumBuilder.Form1.resources
+E:\Visual Studio 2013\Projects\DrumBuilder\DrumBuilder\obj\Debug\DrumBuilder.Properties.Resources.resources
+E:\Visual Studio 2013\Projects\DrumBuilder\DrumBuilder\obj\Debug\DrumProject.csproj.GenerateResource.Cache
+C:\Users\VLADISLAV\Documents\Visual Studio 2013\Projects\DrumBuilder\DrumBuilder\obj\Debug\DrumBuilder.DrumForm.resources
+C:\Users\House\Desktop\DrumBuilder\DrumBuilder\bin\Debug\DrumBuilder.exe.config
+C:\Users\House\Desktop\DrumBuilder\DrumBuilder\obj\Debug\DrumBuilder.exe
+C:\Users\House\Desktop\DrumBuilder\DrumBuilder\obj\Debug\DrumBuilder.pdb
+C:\Users\House\Desktop\DrumBuilder\DrumBuilder\bin\Debug\DrumBuilder.exe
+C:\Users\House\Desktop\DrumBuilder\DrumBuilder\bin\Debug\DrumBuilder.pdb
+C:\Users\House\Desktop\DrumBuilder\DrumBuilder\obj\Debug\DrumProject.csprojResolveAssemblyReference.cache
+C:\Users\House\Desktop\DrumBuilder\DrumBuilder\obj\Debug\DrumBuilder.DrumForm.resources
+C:\Users\House\Desktop\DrumBuilder\DrumBuilder\obj\Debug\DrumBuilder.Properties.Resources.resources
+C:\Users\House\Desktop\DrumBuilder\DrumBuilder\obj\Debug\DrumProject.csproj.GenerateResource.Cache
+F:\DrumBuilder\DrumBuilder\bin\Debug\DrumBuilder.exe.config
+F:\DrumBuilder\DrumBuilder\obj\Debug\DrumBuilder.exe
+F:\DrumBuilder\DrumBuilder\obj\Debug\DrumBuilder.pdb

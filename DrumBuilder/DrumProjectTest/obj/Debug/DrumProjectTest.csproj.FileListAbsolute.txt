@@ -1,0 +1,7 @@
+C:\Users\House\Desktop\DrumBuilder\DrumProjectTest\bin\Debug\DrumProjectTest.dll
+C:\Users\House\Desktop\DrumBuilder\DrumProjectTest\bin\Debug\DrumProjectTest.pdb
+C:\Users\House\Desktop\DrumBuilder\DrumProjectTest\bin\Debug\DrumBuilder.exe
+C:\Users\House\Desktop\DrumBuilder\DrumProjectTest\bin\Debug\DrumBuilder.pdb
+C:\Users\House\Desktop\DrumBuilder\DrumProjectTest\obj\Debug\DrumProjectTest.csprojResolveAssemblyReference.cache
+C:\Users\House\Desktop\DrumBuilder\DrumProjectTest\obj\Debug\DrumProjectTest.dll
+C:\Users\House\Desktop\DrumBuilder\DrumProjectTest\obj\Debug\DrumProjectTest.pdb
